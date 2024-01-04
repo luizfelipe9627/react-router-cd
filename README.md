@@ -2,7 +2,7 @@
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="https://github.com/luizfelipe9627/react-router-cd/blob/main/src/assets/img/apresentacao.gif" alt="Apresentação do React Router">
+<img src="https://github.com/luizfelipe9627/react-router-cd/blob/main/src/assets/apresentacao.gif" alt="Apresentação do React Router">
 
 ## 📄 Descrição
 O React Router DOM é uma biblioteca popular em React.js que facilita a navegação e a criação de aplicativos de página única (Single Page Applications - SPAs). Ele é usado para lidar com a navegação entre diferentes componentes ou páginas dentro de uma aplicação React, sem a necessidade de recarregar a página inteira.
